@@ -19,6 +19,34 @@ body{
     text-align: center;
 
 }
+.formcode{
+    text-align: center;
+}
+.formcode .postcode {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    padding: 0.6rem;
+    border: none;
+    outline: none;
+
+}
+.formcode button{
+    width: 40%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: firebrick;
+    color: white;
+    padding: 0.3rem;
+    border: none;
+    border-radius: 1rem;
+    
+
+}
 .im2{
     margin-top: 15px;
     width: 95%;
